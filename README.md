@@ -1,2 +1,2 @@
 # EduData
-Github starter
+Github starter project. 
